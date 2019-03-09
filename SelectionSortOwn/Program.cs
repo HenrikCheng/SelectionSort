@@ -6,7 +6,7 @@ namespace SelectionSortOwn
     {
         static void Main(string[] args)
         {
-            Runprogram8();
+            Runprogram7();
         }
 
         private static void Runprogram8()
